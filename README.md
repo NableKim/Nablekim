@@ -1,6 +1,6 @@
 ### 👋 BackEnd Enginner를 꿈꾸는 김승수입니다. &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNableKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-✅ 반도체 SW Engineer를 그만두고 개발자 중심의 회사에서 BackEnd Engineer로의 직무 전환을 준비하고 있습니다. 👨‍💻 \
+✅ 반도체 SW Engineer를 그만두고 개발자 중심의 회사에서 BackEnd Engineer로 일하고자 직무 전환을 준비하고 있습니다. 👨‍💻 \
 ✅ 현실에 안주하는 것보다 **새로운 배움을 위해 직접 부딪히고 경험**하는 것을 좋아합니다. 💪 \
 ✅ 같이 일하는 동료들과 지식을 나누고 **함께 성장하며 멀리 갈 수 있는 회사**를 찾고 있습니다. 🚀 \
 ✅ 제가 궁금하시다면 아래에 있는 포트폴리오 사이트를 방문해주세요. 😊
